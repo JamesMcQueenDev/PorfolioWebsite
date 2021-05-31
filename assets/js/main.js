@@ -42,7 +42,7 @@ let header = $(`
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="">CV</a></li>
+        <li><a class="white-text" href="aboutme.html">About Me</a></li>
         <li><a class="white-text" href="index.html">Blog</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
@@ -69,10 +69,8 @@ let header = $(`
 <li><a href="index.html">Home</a></li>
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-<li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="skill.html">Skills</a></li>
-<li><a href="index.html">Blog</a></li>
+<li><a href="aboutme.html">About Me</a></li>
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
@@ -98,36 +96,17 @@ let footer = $(`
         <p>Follow Me On</p>
       </div>
       <div class="footer-icons">
-      <a href="#" class="linkedin sub-footer-icon">
+      <a href="https://www.linkedin.com/in/james-mcqueen-852ba1145/" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="git sub-footer-icon">
+        <a href="https://github.com/JamesMcQueenDev" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
-        <a href="#" class="twitter sub-footer-icon">
+        <a href="https://twitter.com/mrjamesmcqueen" class="twitter sub-footer-icon">
           <i class="fab fa-twitter"></i>
-        </a>
-        <a href="#" class="email-icon sub-footer-icon" >
-        <i id="mail" class="fa fa-envelope" ></i>
-        </a>
-        <a href="#" class="kaggle sub-footer-icon" >
-        <i class="fab fa-kaggle" id="kaggle-icon" ></i>
-        </a> 
-        <!-- <a href="#" class="google-scholar sub-footer-icon">
-        <i class="ai ai-google-scholar-square ai-3x" ></i>
-        </a>
-         <a href="#" class="leetcode sub-footer-icon">
-        <span class="iconify" data-icon="cib:leetcode" data-inline="false"></span>
-        </a>
-        <a href="#" class="codeforces sub-footer-icon">
-        <span class="iconify" data-icon="simple-icons:codeforces" data-inline="false"></span>
-        </a>
-        <a href="#" class="dribbble sub-footer-icon">
-              <i class="fab fa-dribbble"></i>
-            </a>
-            <a href="#" class="instagram sub-footer-icon">
+            <a href="https://www.instagram.com/mrjamesmcqueen/" class="instagram sub-footer-icon">
             <i class="fab fa-instagram"></i>
-          </a>  -->
+          </a>
         </div>
     </div>
     <div class="footer-right">
