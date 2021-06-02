@@ -1,3 +1,6 @@
+# Disclaimer
+This portfolio website is based on the website from https://github.com/smaranjitghose/awesome-portfolio-websites. This is my modified version of it.
+
 # Awesome Portfolio Websites🌐
 
 Are you a researcher, a developer or perhaps an explorer of technology who is looking forward to create an awesome personal brand?
