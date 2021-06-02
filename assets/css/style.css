@@ -199,12 +199,6 @@ html {
   transform: rotate(-45deg) translate(-0.167em, 0.083em);
 }
 
-/*
-.navbar-brand{
-  font-family: Agustina;
-  font-size: 30px;
-  font-weight: bold;
-}*/
 .navbar{
   color:#000000;
   background-color: #fff;
