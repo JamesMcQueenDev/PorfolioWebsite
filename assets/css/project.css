@@ -24,7 +24,7 @@ html[data-theme = 'dark']
 
 /*For Changing background color of body according to theme*/
 body{
-  background: var(--bg-col) !important;
+  /*background: var(--bg-col) !important;*/
 }
 @media (max-width:766px) {
   .dropdown{
